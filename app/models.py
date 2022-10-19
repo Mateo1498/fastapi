@@ -1,7 +1,5 @@
 from enum import unique
-# import tkinter as tk
-# from tkinter import ttk
-# from tkinter import CASCADE
+
 from sqlalchemy.sql.sqltypes import TIMESTAMP
 from sqlalchemy.sql.expression import text
 from sqlalchemy import Column, Integer, String, Boolean, ForeignKey
